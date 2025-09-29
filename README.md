@@ -1,2 +1,2 @@
-# Baple-Plus-Plus
+# Baple++
 Implementation for Baple++
